@@ -21,7 +21,7 @@
     "gatsby-plugin-offline": "^3.2.21",
     "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-plugin-sass": "^2.3.12",
-    "gatsby-plugin-sharp": "^2.6.24",
+    "gatsby-plugin-sharp": "^3.15.0",
     "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-plugin-use-dark-mode": "^1.1.2",
     "gatsby-transformer-sharp": "^2.5.12",
